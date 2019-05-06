@@ -1,9 +1,11 @@
 package com.example.android.recycleview;
 
+import android.media.Image;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.widget.ImageView;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,6 +15,7 @@ import java.util.List;
         private List<Person> persons;
         private PersonsAdapter personsAdapter;
         RecyclerView recyclerView;
+        private ImageView fdsfsdfs;
 
         @Override
         protected void onCreate(Bundle savedInstanceState) {
