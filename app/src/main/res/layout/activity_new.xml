@@ -17,7 +17,7 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentTop="true"
             android:layout_marginRight="16dp"
-            tools:src="@drawable/obama"
+            android:src="@drawable/obama"
             />
 
         <TextView
@@ -28,7 +28,7 @@
             android:layout_marginTop="40dp"
             android:layout_marginLeft="16dp"
             android:textSize="60sp"
-            tools:text="Bear"
+            android:text="Bear"
             />
     </RelativeLayout>
     <RelativeLayout
@@ -42,7 +42,7 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentTop="true"
             android:layout_marginRight="16dp"
-            tools:src="@drawable/obama"
+            android:src="@drawable/obama"
             />
 
         <TextView
@@ -53,7 +53,7 @@
             android:layout_marginTop="40dp"
             android:layout_marginLeft="16dp"
             android:textSize="60sp"
-            tools:text="Bear"
+            android:text="Bear"
             />
     </RelativeLayout>
 
